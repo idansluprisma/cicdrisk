@@ -1,3 +1,3 @@
 
 # idan2222test
-echo "Pipeline hacked!"
+# echo "Pipeline hacked!"
